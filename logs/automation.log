@@ -101,3 +101,7 @@
 13:50:26.099 [main] INFO  testCases.TC_001_LoginTest - Providing login details
 13:50:26.863 [main] INFO  testCases.TC_001_LoginTest - clicked on Login button
 13:50:28.787 [main] INFO  testCases.TC_001_LoginTest - **** Finished TC_001_LoginTest *****
+14:00:44.554 [main] INFO  testCases.TC_001_LoginTest - **** Starting TC_OO1_LoginTest *****
+14:00:44.604 [main] INFO  testCases.TC_001_LoginTest - Providing login details
+14:00:46.733 [main] INFO  testCases.TC_001_LoginTest - clicked on Login button
+14:00:47.197 [main] INFO  testCases.TC_001_LoginTest - **** Finished TC_001_LoginTest *****
